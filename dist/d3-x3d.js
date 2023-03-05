@@ -9260,7 +9260,7 @@
    *
    * @type {Array}
    */
-  var fruit = ["Apples", "Oranges", "Pears", "Bananas"];
+  var fruit = ["Mobile", "Laptop", "Ipad", "Desktop"];
 
   /**
    * Random Number Generator between 1 and 10
